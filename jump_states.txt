@@ -1,0 +1,22 @@
+Grounded
+
+-> crouching
+-> falling
+
+Crouching
+
+-> jumping
+
+Jumping
+
+-> jumping
+-> falling
+
+Falling
+
+-> falling
+-> landing
+
+Landing
+
+-> grounded
